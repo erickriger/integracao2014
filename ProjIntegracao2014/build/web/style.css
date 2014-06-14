@@ -1,0 +1,40 @@
+/* 
+    Created on : 14/06/2014, 18:29:53
+    Author     : eric
+*/
+
+body {
+    background-color: grey;
+    font-family: monospace;
+    text-align: center;
+}
+
+form {
+    position: relative;
+    top: 30px;
+}
+
+#result {
+    position: relative;
+    top: 30px;
+}
+
+textarea {
+    position: relative;
+    
+    font-size: 14pt;
+    border-radius: 3pt;
+}
+#botao {
+    font-size: 14pt;
+    border-radius: 3pt;
+}
+
+#copyright {
+    font-size: 10pt;
+    width: 100%;
+    position: fixed;
+    bottom: 30px; 
+    text-align: center;
+}
+

@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+/home/eric/Documentos/Engenharia de Software/Integração de Aplicações/ClientProjIntegracao2014/.metadata/.plugins/org.eclipse.jdt.core
+537984048.index
+871102317.index
+3288056635.index
+4151797509.index
+3026443073.index
+1781161400.index
+1415693123.index
