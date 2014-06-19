@@ -51,7 +51,7 @@ public class GCMNotification extends HttpServlet {
 
 		String share = request.getParameter("shareRegId");
 
-		// GCM RedgId of Android device to send push notification
+		// GCM RedgId do dispositivo Android para enviar a notificacao
 		String regId = "";
 		if (share != null && !share.isEmpty()) {
 			regId = request.getParameter("regId");

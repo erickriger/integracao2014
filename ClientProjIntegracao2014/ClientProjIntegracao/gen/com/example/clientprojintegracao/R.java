@@ -403,21 +403,20 @@ containing a value of this type.
         public static final int common_signin_btn_text_pressed_light=0x7f020017;
         public static final int fail=0x7f020018;
         public static final int gcm_cloud=0x7f020019;
-        public static final int gcm_logo=0x7f02001a;
-        public static final int ic_action_search=0x7f02001b;
-        public static final int ic_launcher=0x7f02001c;
-        public static final int ic_plusone_medium_off_client=0x7f02001d;
-        public static final int ic_plusone_small_off_client=0x7f02001e;
-        public static final int ic_plusone_standard_off_client=0x7f02001f;
-        public static final int ic_plusone_tall_off_client=0x7f020020;
-        public static final int powered_by_google_dark=0x7f020021;
-        public static final int powered_by_google_light=0x7f020022;
-        public static final int success=0x7f020023;
+        public static final int ic_action_search=0x7f02001a;
+        public static final int ic_launcher=0x7f02001b;
+        public static final int ic_plusone_medium_off_client=0x7f02001c;
+        public static final int ic_plusone_small_off_client=0x7f02001d;
+        public static final int ic_plusone_standard_off_client=0x7f02001e;
+        public static final int ic_plusone_tall_off_client=0x7f02001f;
+        public static final int powered_by_google_dark=0x7f020020;
+        public static final int powered_by_google_light=0x7f020021;
+        public static final int success=0x7f020022;
     }
     public static final class id {
         public static final int book_now=0x7f060010;
-        public static final int btnAppShare=0x7f060016;
-        public static final int btnGCMRegister=0x7f060015;
+        public static final int btnCompartilharRegId=0x7f060016;
+        public static final int btnRegistrarGCM=0x7f060015;
         public static final int buyButton=0x7f06000a;
         public static final int buy_now=0x7f06000f;
         public static final int buy_with_google=0x7f06000e;
@@ -444,9 +443,7 @@ containing a value of this type.
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int activity_register=0x7f030001;
-        public static final int fragment_main=0x7f030002;
-        public static final int fragment_register=0x7f030003;
+        public static final int activity_registro=0x7f030001;
     }
     public static final class string {
         public static final int action_settings=0x7f040022;
@@ -564,7 +561,7 @@ containing a value of this type.
         public static final int server_unregister_error=0x7f040030;
         public static final int server_unregistered=0x7f04002f;
         public static final int title_activity_main=0x7f040025;
-        public static final int title_activity_register=0x7f040023;
+        public static final int title_activity_registro=0x7f040023;
         /**  Text on a placeholder buy button when Google Play services is not
          available or up-to-date 
          */

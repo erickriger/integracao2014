@@ -1,0 +1,28 @@
+1403135122329	Rename field 'NOTIFICATION_ID'
+1403135146787	Rename field 'mNotificationManager'
+1403135214161	Rename local variable 'messageType'
+1403135614877	Rename local variable 'mBuilder'
+1403135724094	Rename field 'btnGCMRegister'
+1403135758749	Rename field 'btnAppShare'
+1403135830941	Rename resource 'activity_register.xml'
+1403135858180	Rename type 'RegisterActivity'
+1403135927065	Rename method 'registerGCM'
+1403135974523	Rename method 'getRegistrationId'
+1403135989268	Rename local variable 'prefs'
+1403136029622	Rename local variable 'registrationId'
+1403136080292	Rename local variable 'registeredVersion'
+1403136114418	Rename local variable 'currentVersion'
+1403136260227	Rename method 'registerInBackground'
+1403136437004	Rename method 'storeRegistrationId'
+1403136460155	Rename local variable 'prefs'
+1403137129108	Rename local variable 'comp'
+1403137214050	Rename type 'ShareExternalServer'
+1403137234595	Rename type 'CompartilharComServerExterno'
+1403137278935	Rename method 'shareRegIdWithAppServer'
+1403137295022	Rename local variable 'result'
+1403137431564	Rename local variable 'httpCon'
+1403137623248	Delete element
+1403137638337	Delete element
+1403137655548	Delete element
+1403137670649	Delete element
+1403139236339	Delete element
